@@ -1,3 +1,4 @@
+
 var tasksInProgressEl = document.querySelector("#tasks-in-progress");
 var taskCompleted = document.querySelector("#task-completed");
 
@@ -161,4 +162,4 @@ else {
     statusSelectEl.appendChild(statusOptionEl);
     }}
     pageContentEl.addEventListener("change", taskStatusChangeHandler);
-    
+   
