@@ -1,9 +1,18 @@
 # Taskinator
+Module 4 Project
+
+## Purpose
 We Are Making a Task to do list.
 
-Codes Used:
-.css
-.html
-.js
+## Built With
+* HTML
+* CSS
+* JS
 
- &copy;2020 by Taskinator
+## Website
+* https://github.com/sambollano/Taskinator/blob/main/README.md
+
+## Contribution
+Made with ❤️ by Samantha Arellano
+
+### 2020 by Taskinator
